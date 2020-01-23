@@ -52,13 +52,15 @@ a.itemLink{
 
 .sub{
   position: absolute;
-  margin-top: 7%;
+  margin-top: 6.5%;
   margin-left: 9%;
   text-align: center;
   z-index: 2;
   background-color: #131313;
   color: #ffecdd;
   padding: 1.5%;
+  border-radius: 15px;
+
 }
 
 .mainTitle{
@@ -81,6 +83,7 @@ a.itemLink{
   margin-top: 9%;
   background-color: #ffecdd;
   position: relative;
+  border-style:groove;
 }
 
 
