@@ -102,6 +102,7 @@ p.txtImage{
 .blackP{
   background-color: #131313;
   color: #ffecdd;
+  margin-top: -7%
 }
 
 .p2{
@@ -109,4 +110,9 @@ p.txtImage{
   margin: 0 auto;
   width: 70%;
   margin-top: 12%;
+}
+
+.titleLink{
+  text-align: center;
+  margin-top: 8%;
 }
