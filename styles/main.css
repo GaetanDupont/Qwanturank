@@ -1,3 +1,4 @@
+
 body{
   margin:0;
   padding:0;
@@ -109,7 +110,7 @@ p.txtImage{
 }
 
 .blackP{
-  background-color: #131313;
+  background-color: #de6b11;
   color: #ffecdd;
   margin-top: -7%
 }
@@ -121,7 +122,31 @@ p.txtImage{
   margin-top: 12%;
 }
 
+<<<<<<< HEAD
 .titleLink{
   text-align: center;
   margin-top: 8%;
+=======
+a{
+  color: black;
+}
+
+.top_website{
+  text-align: center;
+}
+
+.links{
+    column-count: 2;
+}
+/*.left{
+  width: 50%;
+	height: 100%;
+	float: left;
+}
+
+.right{
+  width: 50%;
+	height: 100%;
+	float: left;
+>>>>>>> 8f47b47cf4fde199727e56e1e2911def9d42672d
 }
