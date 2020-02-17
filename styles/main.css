@@ -112,6 +112,14 @@ p.txtImage{
 .blackP{
   background-color: #ffecdd;
   color: black;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.links{
+  margin-top: 5%;
+  padding: 2%;
 }
 
 .p2{
