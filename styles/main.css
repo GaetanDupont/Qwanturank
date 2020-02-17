@@ -136,6 +136,7 @@ p.txtImage{
   font-size: 2rem;
 }
 
+
 .astucesList{
   background-color: #ffecdd;
   width: 80%;
@@ -144,6 +145,13 @@ p.txtImage{
   padding: 5%;
 }
 
+.astucesList p{
+  margin-bottom: 5%;
+}
+
+li{
+  font-size: 1.8rem;
+}
 
 a{
   color: black;
