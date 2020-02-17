@@ -110,14 +110,8 @@ p.txtImage{
 }
 
 .blackP{
-<<<<<<< HEAD
   background-color: #ffecdd;
   color: black;
-=======
-  background-color: #de6b11;
-  color: #ffecdd;
-  margin-top: -7%
->>>>>>> 1ce5a6c7b76d9cd9c117e6916ab8cd99eb20dca9
 }
 
 .p2{
@@ -127,11 +121,6 @@ p.txtImage{
   margin-top: 12%;
 }
 
-<<<<<<< HEAD
-.titleLink{
-  text-align: center;
-  margin-top: 8%;
-=======
 a{
   color: black;
 }
@@ -153,5 +142,4 @@ a{
   width: 50%;
 	height: 100%;
 	float: left;
->>>>>>> 8f47b47cf4fde199727e56e1e2911def9d42672d
 }
