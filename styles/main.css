@@ -121,6 +121,22 @@ p.txtImage{
   margin-top: 12%;
 }
 
+.astucesTitle{
+  color: red;
+  text-align: center;
+  margin-top: 7%;
+  font-size: 2rem;
+}
+
+.astucesList{
+  background-color: #ffecdd;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 5%;
+  padding: 5%;
+}
+
+
 a{
   color: black;
 }
